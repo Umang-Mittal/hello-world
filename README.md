@@ -3,4 +3,10 @@ sample repository
 
 Learnig Git
 
-Some other test line
+
+
+Here, test lines added  -> SampleFile1
+
+
+Some other test line  -> master
+
